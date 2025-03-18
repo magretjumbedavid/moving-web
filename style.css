@@ -1,0 +1,126 @@
+.body{
+    padding-left: 500px;
+}
+.first-words{
+    display: flex;
+    gap: 100px;
+}
+.moling{
+    display: flex;
+    gap: 50px;
+}
+#email{
+    width: 80px;
+    height: 50px;
+}
+#phone{
+    width: 80px;
+    height: 50px;
+}
+.second-words{
+    display: flex;
+    gap: 100px;
+}
+#original-image{
+    width: 1500px;
+    height: 900px;
+}
+.two-content{
+    display: flex;
+    gap: 10px;
+}
+#pack-image{
+    width: 800px;
+    height: 500px;
+}
+#inventory{
+    width: 100px;
+    height: 70px;
+    
+}
+.inner-content{
+    display: flex;
+    gap: 100px;
+}
+.help{
+    display: flex;
+    gap: 20px;
+}
+.chose{
+    display: flex;
+    gap: 100px;
+}
+#gold{
+    width: 90px;
+    height: 60px;
+}
+#image{
+    width: 1500px;
+    height: 900px;
+}
+.labels{
+display: flex;
+gap: 90px;
+}
+.input{
+    display: flex;
+    gap: 10px;
+}
+.to{
+    display: flex;
+    gap: 10px;
+}
+.home{
+display: flex;
+gap: 10px;
+}
+.testimonials{
+    display: flex;
+    gap: 90px;
+}
+#customer{
+    width: 60px;
+    height: 40px;
+}
+#mcelip{
+    width: 200px;
+    height: 120px;
+}
+.updates{
+    gap: 100px;
+}
+#hpw{
+    width: 250px;
+    height: 200px;
+    
+}
+.cartons{
+    gap: 200px;
+    display: flex;
+}
+.over{
+    display: flex;
+    gap: 200px;
+    background-color: black;
+    color: white;
+    width: 2000px;
+    height: 400px;
+    border-top: 50px solid orange
+}
+.src{
+    width: 90px;
+    height: 40px;
+    display: flex;
+    gap: 50px;
+}
+.moving{
+    gap: 20px;
+    background-color: blue;
+    color: white;
+    width: 1000px;
+}
+.book{
+    background-color: orange;
+    color: white;
+    padding-left: 900px;
+}
